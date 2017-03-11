@@ -177,7 +177,7 @@
                 "showText": true,
                 "text": "Painted Warhammer 40K and other models",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"2D ART.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"MINIATURE MODEL PAINTING.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
               }
             ],
             "fullScreen": true,
