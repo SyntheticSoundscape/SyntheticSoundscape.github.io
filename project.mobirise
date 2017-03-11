@@ -306,8 +306,8 @@
           "_name": "footer1",
           "_anchor": "footer1-11",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -834,8 +834,8 @@
           "_name": "footer1",
           "_anchor": "footer1-11",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
