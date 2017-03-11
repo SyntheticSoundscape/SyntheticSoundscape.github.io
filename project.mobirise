@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 39,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/preview2.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/bird-favi-128x150.png",
     "noImageResize": ""
   },
   "pages": {
