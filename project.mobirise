@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ABOUT.html",
+    "currentPage": "index.html",
     "name": "Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -176,7 +176,7 @@
                 "showTitle": true,
                 "title": "MINIATURE MODELS",
                 "showText": true,
-                "text": "Warhammer 40K and other models I painted as a hobby",
+                "text": "Warhammer 40K and other models I paint as a hobby",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"MINIATURE MODEL PAINTING.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
               }
