@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2D ART.html",
+    "currentPage": "index.html",
     "name": "Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/birdie-transp-128x150.png",
     "noImageResize": ""
@@ -150,6 +150,75 @@
             "showText": false
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "3",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bw1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "3D Animation",
+                "showText": true,
+                "text": "Latest animation showreel",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"3D ANIMATION.html\" data-toolbar=\"-mbrBtnMove\">GO</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bw-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "2D ART",
+                "showText": true,
+                "text": "Digital and traditional artwork",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"2D ART.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/waterfall-bw-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "MINIATURE MODELS",
+                "showText": true,
+                "text": "Painted Warhammer 40K and other models",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"2D ART.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-13",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },

@@ -476,6 +476,12 @@ h6,
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#slider-13 H2 {
+  text-align: center;
+}
+#slider-13 P {
+  text-align: center;
+}
 
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
