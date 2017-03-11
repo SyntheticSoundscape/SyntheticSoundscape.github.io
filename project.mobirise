@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "ABOUT.html",
     "name": "Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYNTHETIC SOUNDSCAPE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ARTWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
         },
         {
           "_tags": [
@@ -147,7 +147,7 @@
                 "showTitle": true,
                 "title": "3D ANIMATION",
                 "showText": true,
-                "text": "Latest animation showreel",
+                "text": "The latest showreel showcasing some of my best work<br>as a 3D animator for AAA games",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"3D ANIMATION.html\" data-toolbar=\"-mbrBtnMove\">GO</a> "
               },
@@ -159,9 +159,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "2D ART",
+                "title": "2D ARTWORK",
                 "showText": true,
-                "text": "Digital and traditional artwork",
+                "text": "Digital and traditional artwork in a variety of genres and styles, including landscapes, portraits,&nbsp;illustration and design as well as my reproductions of works of famous old and contemporary artists",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"2D ART.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
               },
@@ -176,7 +176,7 @@
                 "showTitle": true,
                 "title": "MINIATURE MODELS",
                 "showText": true,
-                "text": "Painted Warhammer 40K and other models",
+                "text": "Warhammer 40K and other models I painted as a hobby",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"MINIATURE MODEL PAINTING.html\" data-toolbar=\"-mbrBtnMove\">GO</a>  "
               }
@@ -228,7 +228,7 @@
             "showMeta": true
           },
           "title": "Facial Animation Showreel",
-          "meta": "2017"
+          "meta": "Mocap based 3D Animation, Autodesk Maya, 2017"
         },
         {
           "_inherit": "menu",
@@ -316,7 +316,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYNTHETIC SOUNDSCAPE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ARTWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
         },
         {
           "_tags": [
@@ -458,7 +458,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYNTHETIC SOUNDSCAPE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ARTWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1043,7 +1043,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYNTHETIC SOUNDSCAPE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ARTWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
         },
         {
           "_tags": [
@@ -1226,7 +1226,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYNTHETIC SOUNDSCAPE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ART</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"3D ANIMATION.html\"><br>3D ANIMATION<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"2D ART.html\">2D ARTWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MINIATURE MODEL PAINTING.html\">MINIATURE MODEL PAINTING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"ABOUT.html\">ABOUT</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1284,7 +1284,7 @@
             }
           },
           "title": "ABOUT ME",
-          "text": "I'm &nbsp;cool give me money",
+          "text": "My name is Varvara Juodiskiene and I'm from St. Petersburg, Russia. Ever since I learned how to hold a pencil, art has been my passion and I dreamed of becoming an illustrator or a designer some day. I also have &nbsp;a knack for learning languages and a great curiosity for foreign cultures, &nbsp;music, popular science and the world around me in general, which is why I guess I could never settle for just one thing and my life has been such an adventure. Lately I have been pursuing a career in animation in the video games industry and got to work on some amazing projects, such as <i>Horizon: Zero Dawn</i> and &nbsp;<i>Star Citizen</i>, among others. I learned to animate myself, without any formal training, but with great help from my colleagues at the UK based mocap and animation studio I worked at. I hope to expand my skillset in the future to include more aspects of game creation proccess.<br>In the meantime, don't hesitate to use the form below to contact me about any work or collaborations you might have to offer. I'm always open to new opportunities and connections. &nbsp; &nbsp; &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
