@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ABOUT.html",
+    "currentPage": "2D ART.html",
     "name": "Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -482,7 +482,7 @@
                 "active": false
               },
               {
-                "tags": "Illustration",
+                "tags": "Design",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -562,7 +562,7 @@
                 "active": false
               },
               {
-                "tags": "Illustration",
+                "tags": "Design",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -649,7 +649,247 @@
                 "thumb": "@PROJECT_PATH@/assets/images/13249944-881768475285501-1242886394-n-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/13249944-881768475285501-1242886394-n-2000x2000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/owls-2000x1751-800x700.jpg",
+                "image": "@PROJECT_PATH@/assets/images/owls-2000x1751.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/double-rainbow-all-the-way-2000x1406-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/double-rainbow-all-the-way-2000x1406.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/factory-2000x1622-800x648.jpg",
+                "image": "@PROJECT_PATH@/assets/images/factory-2000x1622.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/moulin-2000x1398-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/moulin-2000x1398.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/forest-fire-2000x1382-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/forest-fire-2000x1382.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pumpkins-2000x1381-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pumpkins-2000x1381.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/muslim-2000x3066-800x1226.jpg",
+                "image": "@PROJECT_PATH@/assets/images/muslim-2000x3066.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/eagle-2000x2709-800x1083.jpg",
+                "image": "@PROJECT_PATH@/assets/images/eagle-2000x2709.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mom-2000x2451-800x980.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mom-2000x2451.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/monkey-2000x2693-800x1077.jpg",
+                "image": "@PROJECT_PATH@/assets/images/monkey-2000x2693.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trumpet-2000x3079-800x1231.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trumpet-2000x3079.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dotted-flowers-2000x1533-800x613.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dotted-flowers-2000x1533.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/creepy-tree-2000x1266-800x506.jpg",
+                "image": "@PROJECT_PATH@/assets/images/creepy-tree-2000x1266.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/countryhouse-2000x1340-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/countryhouse-2000x1340.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/autumn-2000x1401-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/autumn-2000x1401.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/house-2000x1376-800x550.jpg",
+                "image": "@PROJECT_PATH@/assets/images/house-2000x1376.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/winter-2000x1402-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/winter-2000x1402.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-bw-2000x2589-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-bw-2000x2589.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Reproductions",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/durer-2000x2677-800x1070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/durer-2000x2677.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Reproductions",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stump-2000x2606-800x1042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stump-2000x2606.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Reproductions",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cerberus-2000x1436-800x574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cerberus-2000x1436.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Reproductions",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fir-trees-2000x1464-800x585.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fir-trees-2000x1464.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustration",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bouquet-2000x3515-800x1406.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bouquet-2000x3515.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Landscapes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wooden-bridge-2000x2843-800x1137.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wooden-bridge-2000x2843.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "0",
